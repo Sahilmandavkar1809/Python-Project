@@ -44,6 +44,9 @@ Python 3.7+
 
 pandas, numpy, matplotlib, seaborn, scikit-learn
 
+# run
+python main.py
+
 # 📈 Output
 The script will display multiple visualizations and print the predicted college fees for the test set.
 
