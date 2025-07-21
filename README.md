@@ -1,4 +1,5 @@
-College Data Analysis and Clustering Project
+College Data Analysis and Clustering Project.
+
 This project analyzes a dataset of colleges based on various quality and location metrics. It includes data preprocessing, K-Means clustering, linear regression for fee prediction, and a variety of visualizations to explore patterns and trends in the data.
 
 📊 Features Implemented
